@@ -1,6 +1,6 @@
 {
   "name": "hubot-b",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot adapter for b",
   "main": "index.js",
   "scripts": {
